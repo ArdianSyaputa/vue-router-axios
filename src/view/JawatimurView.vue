@@ -1,7 +1,7 @@
 <template>
 
   <div class="header">
-
+<h1>project</h1>
     <form @submit.prevent="add" id="input">
           <h1>Jawa Timur</h1>
         <input type="hidden" v-model="form.id " required>
