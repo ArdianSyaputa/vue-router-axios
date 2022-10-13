@@ -1,0 +1,212 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Kerak Telor",
+      "khas": "Ondel-ondel",
+      "bahan": "Betawi",
+      "harga": "",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 2,
+      "name": "Soto Betawi",
+      "khas": "Tanjidor",
+      "bahan": "Bahasa Indonesia",
+      "harga": "",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2020/04/12/8f58e553-edee-4c0f-b44a-159ea71b2d53_169.jpeg?w=620"
+    },
+    {
+      "id": 3,
+      "name": "Semur Jengkol",
+      "khas": "Palang Pintu",
+      "bahan": "Bahasa Indonesia",
+      "harga": "",
+      "image": "https://cdn1-production-images-kly.akamaized.net/7vWpvHBg3vezybVt-yeHrlBGswI=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2075619/original/050962000_1523449745-Lapangan-Banteng-8.jpg"
+    },
+    {
+      "name": " Soto Tangkar",
+      "khas": " Roti Buaya",
+      "bahan": " Bahasa Indonesia",
+      "harga": " ",
+      "image": " https://uklik.net/wp-content/uploads/2022/04/Sejarah-Monumen-Selamat-Datang-di-Jakarta.jpg",
+      "id": 4
+    },
+    {
+      "name": "Tape Uli",
+      "khas": "Nyorog",
+      "bahan": "Bahasa Indonesia",
+      "harga": "",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2017/07/21/fcf18f0d-50d7-42f3-bf30-26591553e733_169.jpg?w=780&q=80",
+      "id": 5
+    }
+  ],
+  "ards": [
+    {
+      "mkn": " Dorokdok",
+      "tradisi": " Angklung Dogdog Lojor",
+      "bahasa": " Sunda",
+      "harga": " ",
+      "image": " data:image/jpeg;base64,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",
+      "id": 1
+    },
+    {
+      "mkn": "Sega Lengko",
+      "tradisi": "Merlawu",
+      "bahasa": "Bahasa Sunda",
+      "harga": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnOw-UZJQPwf_Q4SZpEgafP4Q-x5FQVJdng&usqp=CAU",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "mkn": "Dodol Garut",
+      "tradisi": "Payung Geulis",
+      "bahasa": "Bahasa Sunda",
+      "harga": "",
+      "image": "https://images.bisnis-cdn.com/thumb/photos/2020/12/17/156719/rhn-monumen-2.jpg?w=800&h=500"
+    },
+    {
+      "mkn": "Asinan Bogor",
+      "tradisi": " Tari Cepet Sukabumi",
+      "bahasa": "Bahasa Sunda ",
+      "harga": "",
+      "image": "https://t-2.tstatic.net/tribunjambiwiki/foto/bank/images/tugu-juang-4.jpg",
+      "id": 4
+    },
+    {
+      "mkn": "Seblak",
+      "tradisi": "Jipeng",
+      "bahasa": "Bahasa Sunda",
+      "harga": "",
+      "image": "https://t-2.tstatic.net/tribuntimurwiki/foto/bank/images/Monumen-Mandala.jpg",
+      "id": 5
+    }
+  ],
+  "zexs": [
+    {
+      "id": 1,
+      "mkn2": " Tahu Petis",
+      "tradisi2": "Wetonan",
+      "bahasa2": "Bahasa Jawa",
+      "harga": " ",
+      "image": " https://sejarahlengkap.com/wp-content/uploads/2019/05/Sejarah-Monumen-Palagan-Ambarawa-1280x720.jpg"
+    },
+    {
+      "mkn2": " Mie Ongklok",
+      "tradisi2": " Ruwatan",
+      "bahasa2": " dialek Pekalongan",
+      "harga": " ",
+      "image": " https://jatenglive.com/images/news/Asal-Usul-Pemberian-Nama-Semarang-news20220610-tugu_muda_lawang_sewu_kota_semarang_2019_sam9042.jpg",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "mkn2": "Nasi Gandul",
+      "tradisi2": "Larung Sesaji",
+      "bahasa2": "dialek Wonosobo",
+      "harga": "",
+      "image": "https://cdn-2.tstatic.net/jateng/foto/bank/images/monumen-juang-brebes.jpg"
+    },
+    {
+      "id": 4,
+      "mkn2": " Lumpia",
+      "tradisi2": " Tingkeban",
+      "bahasa2": " dialek Banyumas",
+      "harga": " ",
+      "image": " https://asset.kompas.com/crops/jVhRfe2Vl8kEBcSArqgiWWfkEsg=/0x35:1000x702/780x390/data/photo/2018/06/06/2481282756.JPG"
+    },
+    {
+      "id": 5,
+      "mkn2": "Pecel",
+      "tradisi2": "Mudun Lemah",
+      "bahasa2": "ALL Bahasa",
+      "harga": "",
+      "image": "https://betanews.id/wp-content/uploads/2015/08/menaradantuguidentitas.jpg"
+    }
+  ],
+  "nlps": [
+    {
+      "id": 1,
+      "mkn3": "Rawon",
+      "tradisi3": "Gerebek Suro Ponorogo",
+      "bahasa3": "bahasa bajo",
+      "harga": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tugu_Pahlawan_Surabaya.jpg"
+    },
+    {
+      "id": 2,
+      "mkn3": "  Bakso Malang",
+      "tradisi3": " Dam Bagong",
+      "bahasa3": "  bahasa madura",
+      "harga": " ",
+      "image": " https://cdn-2.tstatic.net/travel/foto/bank/images/tugu-pahlawan-di-surabaya.jpg"
+    },
+    {
+      "id": 3,
+      "mkn3": " Keduk Beji",
+      "tradisi3": " Kebo-keboan",
+      "bahasa3": "  bahasa jawa ",
+      "harga": " ",
+      "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmjPEOeWjlcXQn2QB8HKIhtGHCs0l-8ssnIxjxudrlcmvUZ7m7izaHHnFBcSHl_HEgsk8&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "mkn3": " Rujak Cianjur",
+      "tradisi3": " Dam Bagong",
+      "bahasa3": " bahasa madura",
+      "harga": " ",
+      "image": " https://cdn0-production-assets-kly.akamaized.net/medias/1313164/big/071728900_1470815679-3.JPG"
+    },
+    {
+      "id": 5,
+      "mkn3": " Bebek Madura",
+      "tradisi3": " Keduk Beji",
+      "bahasa3": " bahasa bajo",
+      "harga": " ",
+      "image": " https://images.solopos.com/2022/03/monumen-soerjo-ngawii.jpg"
+    }
+  ],
+  "stars": [
+    {
+      "mkn4": " Rujak Kuah Pindang",
+      "tradisi4": " Upacara Ngaben",
+      "bahasa4": "  dialek Bali Aga",
+      "harga": " ",
+      "image": " https://3.bp.blogspot.com/-lclu_KlPsuw/WNN49Ai_rLI/AAAAAAAAAMc/8UMRO97oBokjqbXF6EnIcKXqeRrZCdrlwCLcB/w1200-h630-p-k-no-nu/DSCN1781.JPG",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "mkn4": " Sop Kepala Ikan",
+      "tradisi4": " Upacara Melasti",
+      "bahasa4": " dialek Bali Dataran",
+      "harga": " ",
+      "image": " https://www.rentalmobilbali.net/wp-content/uploads/2014/09/Monumen-Bajra-Sandhi.jpg"
+    },
+    {
+      "id": 3,
+      "mkn4": " Tipat Blayag",
+      "tradisi4": " Hari Raya Galungan",
+      "bahasa4": " diale Bali Aga",
+      "harga": " ",
+      "image": " https://www.ayobali.net/wp-content/uploads/2021/12/Monumen-Bom-Bali.jpg"
+    },
+    {
+      "id": 4,
+      "mkn4": " Ayam Betutu",
+      "tradisi4": " Upacara Tumpek Landep",
+      "bahasa4": " dialek Bali Dataran",
+      "harga": " ",
+      "image": " https://www.balipost.com/wp-content/uploads/2018/02/balipostcom_monumen-lintas-laut-jawa-bali-kenang-pertempuran-laut-pertama-yang-heroik_01.jpg"
+    },
+    {
+      "mkn4": " Sambal Matah",
+      "tradisi4": " Upacara Mepandes",
+      "bahasa4": " dialek Bali Aga",
+      "harga": " ",
+      "image": "https://3.bp.blogspot.com/-S_3jNsdHYdE/WDfoLJGFADI/AAAAAAAACIo/B7rqxVIEy5c8LevoDPRzmiv4StFb7EzgwCLcB/s1600/Screenshot_3.png",
+      "id": 5
+    }
+  ]
+}
